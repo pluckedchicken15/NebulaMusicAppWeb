@@ -1,0 +1,6 @@
+com\mycompany\nebulamusicappweb\resources\JakartaEE11Resource.class
+com\mycompany\nebulamusicappweb\JakartaRestConfiguration.class
+com\mycompany\nebulamusicappweb\servlets\AutenticationServlet.class
+com\mycompany\nebulamusicappweb\repositories\UsuarioDB.class
+com\mycompany\nebulamusicappweb\servlets\RegistroServlet.class
+com\mycompany\nebulamusicappweb\models\Usuario.class
